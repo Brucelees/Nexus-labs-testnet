@@ -71,7 +71,7 @@ Copy the prover ID from https://beta.nexus.xyz/ and replace
 
 
 
-EDIT: To copy prover ID, disconnect the Web Interface first, then use the copy. [copies a 24char string — not the visible one]
+EDIT: To copy prover ID, disconnect the Web Interface first, then use the copy. [28 Char]
 --------------------------------------------------------------------------------------------------------------------------------
 
 ```
