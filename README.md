@@ -1,5 +1,7 @@
 # Nexus-labs-testnet
 
+![image](https://github.com/user-attachments/assets/bf2fe42c-d56a-451a-89ba-9b13f56c8157)
+
 Update system directory
 -----------------------
 
