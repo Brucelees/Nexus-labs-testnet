@@ -61,7 +61,7 @@ curl https://cli.nexus.xyz/ | sh
 CTRL + Z to stop
 ----------------
 
-<img width="421" alt="image" src="https://github.com/user-attachments/assets/5d453990-8368-454c-8e6e-24fe354e1775">
+It will show as stopped then proceed with next steps
 
 
 
