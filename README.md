@@ -101,7 +101,7 @@ Ctrl+A+D
 
 ```
 
-To check Stats or renter screen
+To check Status or renter screen
 -----------
 
 ```
