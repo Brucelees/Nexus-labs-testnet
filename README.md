@@ -12,8 +12,8 @@ sudo apt install build-essential pkg-config libssl-dev git-all
 ```
 
 
-Reply with “Y” & wait for process to complete, reply also with ‘8’ none of the above when asked
------------------------------------------------------------------------------------------------
+Reply with “Y” & wait for process to complete, reply also with ‘8’ none of the above if asked
+
 
 
 
