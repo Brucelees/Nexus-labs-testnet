@@ -63,6 +63,7 @@ CTRL + Z to stop
 Copy the prover ID from https://beta.nexus.xyz/ and replace
 -----------------------------------------------------------
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e7d75be4-b977-4567-866f-c10580d09c7b">
 
 
 
