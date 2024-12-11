@@ -37,8 +37,11 @@ Wait for 30 seconds, connect terminal again
 reboot
 ```
 
-
-
+Install Screen
+---------------
+```
+screen -s nexus
+```
 
 Install Compiler
 ---------------
@@ -88,3 +91,20 @@ Run Command again and DONE!
 curl https://cli.nexus.xyz/ | sh
 ```
 ![photo_2024-12-11_10-27-18](https://github.com/user-attachments/assets/d67f39fa-c7da-45ed-bad7-22ded04a067b)
+
+
+Extit from Screen 
+------------------
+
+```
+Ctrl+A+D
+
+```
+
+To check Stats or renter screen
+-----------
+
+```
+screen -r nexus
+
+```
