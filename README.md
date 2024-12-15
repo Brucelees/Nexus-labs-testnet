@@ -27,7 +27,11 @@ curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh
 ```
 . "$HOME/.cargo/env"
 ```
-
+To check if rust installed properly
+-----------------------------------
+```
+RustUP --version
+```
 Reboot System
 -------------
 
@@ -108,6 +112,7 @@ To check Status or renter screen
 screen -r nexus
 
 ```
+
 To Check all visible screens
 -------------
 ```
