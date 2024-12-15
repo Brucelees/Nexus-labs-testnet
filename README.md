@@ -108,3 +108,9 @@ To check Status or renter screen
 screen -r nexus
 
 ```
+To Check all visible screens
+-------------
+```
+screen -ls
+
+```
