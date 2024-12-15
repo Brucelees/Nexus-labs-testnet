@@ -40,7 +40,7 @@ reboot
 Install Screen
 ---------------
 ```
-screen -s nexus
+screen -S nexus
 ```
 
 Install Compiler
